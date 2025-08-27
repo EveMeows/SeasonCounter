@@ -54,7 +54,7 @@ lua main.lua --help
 But, using srlua, we can also turn it into an executable file. <br/>
 First, download and install [srlua](https://github.com/LuaDist/srlua).
 
-For Windows users, there are precompiled binaries in [this])https://github.com/noahp/srlua-mingw) github repository. <br>
+For Windows users, there are precompiled binaries in [this]9https://github.com/noahp/srlua-mingw) github repository. <br>
 Though I do not know how safe it is and I recommend just compiling it yourself.
 ```bash
   # Will output counter.exe which can be ran
