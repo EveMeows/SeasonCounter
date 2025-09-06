@@ -51,14 +51,5 @@ cd counter
 lua main.lua --help
 ```
 
-# Creating a binary
-But, using srlua, we can also turn it into an executable file. <br/>
-First, download and install [srlua](https://github.com/LuaDist/srlua).
-
-```bash
-  # Will output counter.exe which can be ran
-  glue.exe srlua.exe main.lua counter.exe 
-```
-
 # License
 GPL 3.0
